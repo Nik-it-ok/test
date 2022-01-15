@@ -1,10 +1,6 @@
 hi world
 test line
-
-test
-
-Привет привет
-
 789.
 add line
 new branch line
+gui
